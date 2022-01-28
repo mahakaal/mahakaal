@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mahakaal/mahakaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  #Sukhdev Mohan
+  <h1>Sukhdev Mohan</h1>
+  Backend Engineer for PHP, Java, Python, Javascript/Typescript <br>
+  Open source enthusiast and advocate
+</div>
